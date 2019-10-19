@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Whats DM</string>
+
+
+        <string-array name="planets_array">
+           <item>+91</item>
+        </string-array>
+
+</resources>
